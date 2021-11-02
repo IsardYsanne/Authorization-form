@@ -27,3 +27,6 @@ captcha.php - generates a captcha and displays an image
 ![phpmyadmin](https://user-images.githubusercontent.com/78618492/134187829-ffcf41cf-16c0-4d0e-8edc-68bd373817e8.jpg)
 <br>
 registered users
+<br>
+<br>
+(Rus: Данная форма авторизации состоит из обработчика кнопки входа + входа в личный кабинет, кнопки выхода)
